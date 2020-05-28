@@ -7,7 +7,7 @@ on:
 
 name: Lab_3_WebApp
 env:
-  AZURE_WEBAPP_NAME: uniqueWebAppName
+  AZURE_WEBAPP_NAME: MyDevOpsBootcamp-734vixr4frv5q
   AZURE_WEBAPP_PACKAGE_PATH: ./lab_3/app
 
 jobs:
