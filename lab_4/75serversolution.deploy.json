@@ -23,7 +23,7 @@
 		}
 	},
 	"variables": {
-		"copyCount": 75,
+		"copyCount": 20,
 		"imagePublisher": "Canonical",
 		"imageOffer": "UbuntuServer",
 		"ubuntuOsVersion": "18.04-LTS",
